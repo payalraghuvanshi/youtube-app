@@ -1,0 +1,9 @@
+.video-item{
+    display: flax !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.video-item img{
+    max-width: 180px;
+}
